@@ -1,5 +1,6 @@
 # Authors
-Stephen Kitcatt
+Kitcatt.S.
+Wendy.S.
 
 # Title
 Measurements of hamburger diameters at highstreet fast-food outlets
