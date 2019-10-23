@@ -15,3 +15,4 @@ We simulate the changes in relish to burger surface area ratio according to the 
 
 # Methodology
 We compared simulations from Castle et al with our measurements.
+Very precise measurements were required (burger patties were viewed under an electron microscope).
