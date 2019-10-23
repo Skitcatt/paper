@@ -12,3 +12,6 @@ King et al (1998) conducted several studies in this area revealing potential sav
 
 # Simulations
 We simulate the changes in relish to burger surface area ratio according to the model by Wendy.S.
+
+# Methodology
+We compared simulations from Castle et al with our measurements.
