@@ -19,3 +19,6 @@ Very precise measurements were required (burger patties were viewed under an ele
 
 # Results
 Our simulations and measurements indicate that hamburger growth is dominated by pressure from hungry phd students.
+
+# Figures
+Figure: image of a sesame seed bun, reeeally close up
