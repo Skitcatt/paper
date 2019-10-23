@@ -22,3 +22,6 @@ Our simulations and measurements indicate that hamburger growth is dominated by 
 
 # Figures
 Figure: image of a sesame seed bun, reeeally close up
+
+# Conclusions
+We have made fantastic insight into the burgeoning science of burger dynamics. Nonetheless, questions remain unanswered, so we should definitely get more funding.
