@@ -25,3 +25,6 @@ Figure: image of a sesame seed bun, reeeally close up
 
 # Conclusions
 We have made fantastic insight into the burgeoning science of burger dynamics. Nonetheless, hamburgers remain uneaten, so we should definitely get more ketchup.
+
+# Acknowledgements
+We would like to thank the Hamburglar for not stealing all of our research samples.
